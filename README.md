@@ -1,7 +1,7 @@
 # Python
 I am sharing my Journey to becoming friends with python , from scratch to Expertness.
-Feel free to go through this repo and if you have any constructive suggestion, don't hesitate to reach me @deepakkulhar4@gmail.com
-Thing you will find here :- 
+Feel free to go through this repo and if you have any constructive suggestion, don't hesitate to reach out to me @deepakkulhar4@gmail.com.
+Things you will find here :- 
 1. Learning material
 2. Collection of good problems solved
 3. Problem solutions for questions from leetcode, Datalemur, HackerRank etc
